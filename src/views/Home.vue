@@ -3,6 +3,7 @@
         <Toolbar />
 
         <main>
+            <!-- test -->
             <!-- 左侧组件列表 -->
             <section class="left">
                 <ComponentList />
